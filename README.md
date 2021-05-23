@@ -1,6 +1,6 @@
 # Anime Maze
 
-This app is about animation which you can see how much episodes,movies are there for that animation. This was created using HTML,CSS and React and Pie chart was created using FusionChart
+This app is about animation which you can see how much episodes,movies are there for that animation. This was created using HTML,CSS and React and Pie chart was created using FusionCharts
 
 
 This app has two pages 1) Home page 2) Details Page
